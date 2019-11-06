@@ -33,6 +33,7 @@ tags
 
 # Latex files
 *.pdf
+!doc.pdf
 *.eps
 *.aux
 *.toc
